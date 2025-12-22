@@ -1,6 +1,17 @@
-# [SQL] Explore-Ecommerce-Dataset
-# I. Introduction
-In this project, I use SQL in Google BigQuery to explore an eCommerce dataset sourced from the Google Analytics public dataset, which contains data from an eCommerce website.
+# 📊 Yếu tố nào thúc đẩy mua hàng & doanh thu, điểm nghẽn/tắc ở đâu trong phễu chuyển đổi?| eCommerce / Web Analytics | SQL (BigQuery)
+
+Author: Lê Trường Quyết<br>
+Date : 2025/07/06<br>
+Tools Used : SQL (Google BigQuery)<br>
+
+## 📑 Table of Contents 
+  1. [📌 Background & Overview](#-background--overview)
+  2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)
+  3. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
+
+---
+## 📌 Background & Overview
+  
 # Exploring the Dataset
 In this project, I write eight queries to explore the dataset and dive deeper into the data to gain insights
 
