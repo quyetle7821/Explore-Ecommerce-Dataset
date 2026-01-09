@@ -130,17 +130,34 @@ This query builds a funnel cohort map to track how users progress from **product
 
 ### 4. 🔎 Final Conclusion & Recommendations  
 
-👉🏻 Based on the analyses above, here are the key takeaways and recommended actions for stakeholders (Marketing / E-commerce / Product teams):
+👉🏻 These recommendations focus on improving acquisition efficiency, reducing funnel friction, and increasing basket value based on GA session and eCommerce event analysis.
 
-### ✅ Key Takeaways
-- Traffic quality differs by source/medium: some channels drive high visits but also higher bounce rates.
-- Purchasers show stronger engagement than non-purchasers (e.g., more pageviews) before converting.
-- The funnel highlights clear drop-offs across steps (view → add_to_cart → purchase), indicating friction points.
+1. **Channel quality varies by source/medium** *(Impact: better ROI)*
 
-### 🎯 Recommendations
-- Prioritize high-performing sources and optimize/retarget high-bounce sources (landing page + targeting).
-- Improve key funnel stages: enhance product pages (view → cart) and reduce checkout friction (cart → purchase).
-- Use cross-sell tactics (bundles / "frequently bought together") to increase average order value.
+   **Action:** Shift budget to top revenue sources; run landing-page + targeting tests for high-bounce sources.
+   
+
+2. **Purchasers show deeper pre-purchase engagement (more pageviews)** *(Impact: higher conversion)*
+
+   **Action:** Improve product discovery (best-sellers, reviews, FAQs, shipping/returns clarity) to move non-purchasers toward intent.
+   
+
+3. **Main funnel friction occurs at view → add_to_cart and cart → purchase** *(Impact: reduce drop-off)*
+
+   **Action:** Simplify checkout (guest checkout, fewer fields, show total cost early) and strengthen product-page CTAs (sticky “Add to cart”, size/availability visibility).
+   
+
+4. **Cross-sell patterns suggest bundle opportunities** *(Impact: increase AOV)*
+
+   **Action:** Launch “Frequently bought together” bundles + cart upsells for common co-purchases.
+   
+
+5. **Improvements must be measurable and iterative** *(Impact: sustainable growth)*
+
+   **Action:** Track monthly KPIs (bounce by source, step conversion rates, AOV, revenue/session) and validate changes via A/B testing.
+
+
+
 
 
 
